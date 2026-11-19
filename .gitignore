@@ -429,4 +429,4 @@ FodyWeavers.xsd
 .venv/
 .mplconfig/
 
-*.csv
+clinic_appointments.csv
